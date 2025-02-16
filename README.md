@@ -8,7 +8,8 @@
 - **📊 Traditional Data Science**: Statistical modeling, data wrangling, and visualization.  
 - **🤖 Machine Learning**: End-to-end ML pipelines, model optimization, and deployment.  
 - **🧠 Deep Learning**: Neural networks, CNNs, RNNs, and transformers.  
-- **🎨 Generative AI & LLMs**: Fine-tuning, prompt engineering, and building AI-powered applications.  
+- **🎨 Generative AI & LLMs**: Fine-tuning, prompt engineering.
+- **☁️ Cloud Technologies**: AWS, Data-Bricks,  cloud-based ML model deployment, and scalable AI solutions. 
 
 ---
 
