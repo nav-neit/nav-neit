@@ -5,11 +5,11 @@
 ---
 
 #### 🚀 Expertise  
-- **📊 Traditional Data Science**: Statistical modeling, data wrangling, and visualization.  
-- **🤖 Machine Learning**: End-to-end ML pipelines, model optimization, and deployment.  
+- **📊 Traditional Data Science**: Data Extraction, Wrangling Visualization, Statistical Modelling.  
+- **🤖 Machine Learning**: End-to-end ML Model Developement, Deployment & Testing.
 - **🧠 Deep Learning**: Neural networks, CNNs, RNNs, and transformers.  
-- **🎨 Generative AI & LLMs**: Fine-tuning, prompt engineering.
-- **☁️ Cloud Technologies**: AWS, Data-Bricks,  cloud-based ML model deployment, and scalable AI solutions. 
+- **🎨 Generative AI, NLP & LLMs**: Fine-tuning, prompt engineering.
+- **☁️ Cloud Technologies**: AWS, Data-Bricks,  Cloud-based ML Model Deployment, and Scalable AI Solutions. 
 
 ---
 
