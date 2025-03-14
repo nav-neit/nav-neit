@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Navaneeth
 
-#### 🔭 Data Scientist | AI/ML Engineer | Generative AI & LLM Enthusiast
+#### 🔭 Data Scientist | AI Engineer | Generative AI & LLM Enthusiast
 
 ---
 
